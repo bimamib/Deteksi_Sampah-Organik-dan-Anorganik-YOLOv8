@@ -1,0 +1,13 @@
+train: C:/Users/bimap/PycharmProjects/klasifikasi_sampah/dataset/train/images
+val: C:/Users/bimap/PycharmProjects/klasifikasi_sampah/dataset/valid/images
+test: C:/Users/bimap/PycharmProjects/klasifikasi_sampah/dataset/test/images
+
+nc: 2
+names: ['Anorganik', 'Organik']
+
+roboflow:
+  workspace: siscer-project
+  project: sampah-organik-dan-anorganik
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/siscer-project/sampah-organik-dan-anorganik/dataset/6

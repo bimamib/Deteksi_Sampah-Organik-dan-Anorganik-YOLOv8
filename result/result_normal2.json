@@ -1,0 +1,903 @@
+{
+    "result": {
+        "directory": "test\\images",
+        "detections": [
+            {
+                "image": "baja-13-_jpg.rf.e5e1965fe503c883d034aa3f34cb9989.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 44.281138479709625,
+                    "ymin": 0.0,
+                    "xmax": 529.2532324790955,
+                    "ymax": 437.55433559417725
+                },
+                "confidence": 0.859943687915802,
+                "time": {
+                    "preprocess": 7.375240325927734,
+                    "inference": 1426.0108470916748,
+                    "postprocess": 1.0001659393310547
+                }
+            },
+            {
+                "image": "baja-17-_jpg.rf.c506919685069299485fd5280bbc6adc.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 161.64028644561768,
+                    "ymin": 26.49158388376236,
+                    "xmax": 367.70557165145874,
+                    "ymax": 558.5168480873108
+                },
+                "confidence": 0.7558265924453735,
+                "time": {
+                    "preprocess": 6.60395622253418,
+                    "inference": 58.18605422973633,
+                    "postprocess": 0.99945068359375
+                }
+            },
+            {
+                "image": "baja-36-_jpg.rf.462b30a0837ca4ce356f13d93ae5dd5c.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 154.88312244415283,
+                    "ymin": 163.75202536582947,
+                    "xmax": 536.2450003623962,
+                    "ymax": 411.02439165115356
+                },
+                "confidence": 0.5697107315063477,
+                "time": {
+                    "preprocess": 6.020545959472656,
+                    "inference": 59.784650802612305,
+                    "postprocess": 1.1029243469238281
+                }
+            },
+            {
+                "image": "baja-5-_jpg.rf.658add4e60cf0923882c8f9b2a693dfe.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 21.914061158895493,
+                    "ymin": 167.19542741775513,
+                    "xmax": 449.6209144592285,
+                    "ymax": 395.4777002334595
+                },
+                "confidence": 0.7556278109550476,
+                "time": {
+                    "preprocess": 7.40814208984375,
+                    "inference": 62.59608268737793,
+                    "postprocess": 0.9973049163818359
+                }
+            },
+            {
+                "image": "botol_minum-10-_jpg.rf.401c90506914871688d05a137b547201.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 101.25829875469208,
+                    "ymin": 89.14271593093872,
+                    "xmax": 521.9733238220215,
+                    "ymax": 492.4225330352783
+                },
+                "confidence": 0.918025553226471,
+                "time": {
+                    "preprocess": 3.511667251586914,
+                    "inference": 59.1588020324707,
+                    "postprocess": 0.9996891021728516
+                }
+            },
+            {
+                "image": "botol_minum-16-_jpg.rf.ec386defa3200de973fe25ef6c9a48cb.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 333.2224130630493,
+                    "ymin": 59.51659977436066,
+                    "xmax": 525.9758591651917,
+                    "ymax": 600.0
+                },
+                "confidence": 0.7148830890655518,
+                "time": {
+                    "preprocess": 3.7660598754882812,
+                    "inference": 58.458805084228516,
+                    "postprocess": 1.0027885437011719
+                }
+            },
+            {
+                "image": "botol_minum-2-_jpg.rf.5b01854fd541b99f0796aad4d05a8510.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 71.61654978990555,
+                    "ymin": 197.51681685447693,
+                    "xmax": 574.3624448776245,
+                    "ymax": 460.1872444152832
+                },
+                "confidence": 0.7458388209342957,
+                "time": {
+                    "preprocess": 4.0111541748046875,
+                    "inference": 57.77239799499512,
+                    "postprocess": 1.0004043579101562
+                }
+            },
+            {
+                "image": "botol_minum-22-_jpg.rf.54eacb91576617a2621a74a31446df33.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 116.35664999485016,
+                    "ymin": 218.89926195144653,
+                    "xmax": 484.2779874801636,
+                    "ymax": 410.5367660522461
+                },
+                "confidence": 0.7077478170394897,
+                "time": {
+                    "preprocess": 4.516363143920898,
+                    "inference": 59.04698371887207,
+                    "postprocess": 1.056671142578125
+                }
+            },
+            {
+                "image": "botol_minum-32-_jpg.rf.fa939cab1b8421489bb40ab4131ff2b9.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 325.61681270599365,
+                    "ymin": 311.2903833389282,
+                    "xmax": 503.9239525794983,
+                    "ymax": 496.5739846229553
+                },
+                "confidence": 0.40333297848701477,
+                "time": {
+                    "preprocess": 5.000591278076172,
+                    "inference": 56.69355392456055,
+                    "postprocess": 0.0
+                }
+            },
+            {
+                "image": "botol_minum-4-_jpg.rf.9453ef84106c71be311ef9190253c553.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 244.4376826286316,
+                    "ymin": 63.66347819566727,
+                    "xmax": 422.6544141769409,
+                    "ymax": 550.8597493171692
+                },
+                "confidence": 0.7050065398216248,
+                "time": {
+                    "preprocess": 3.9992332458496094,
+                    "inference": 59.46040153503418,
+                    "postprocess": 0.9982585906982422
+                }
+            },
+            {
+                "image": "botol_minum-42-_jpg.rf.070e7c0c0d2bbc039fce9640e3f77516.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 199.84517097473145,
+                    "ymin": 314.1741871833801,
+                    "xmax": 391.65916442871094,
+                    "ymax": 550.173032283783
+                },
+                "confidence": 0.8292980790138245,
+                "time": {
+                    "preprocess": 6.540060043334961,
+                    "inference": 59.79204177856445,
+                    "postprocess": 2.2161006927490234
+                }
+            },
+            {
+                "image": "botol_minum-43-_jpg.rf.54ae5408aa904f6d9479c6de03705c4d.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 203.17534804344177,
+                    "ymin": 26.918218284845352,
+                    "xmax": 385.772180557251,
+                    "ymax": 553.1492471694946
+                },
+                "confidence": 0.7613707780838013,
+                "time": {
+                    "preprocess": 5.52058219909668,
+                    "inference": 60.872554779052734,
+                    "postprocess": 0.0
+                }
+            },
+            {
+                "image": "bungkus_makanan-21-_jpg.rf.ca6a0422ee296b1d6c8732d4bcaf5b93.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 170.76106667518616,
+                    "ymin": 181.5023124217987,
+                    "xmax": 485.53866147994995,
+                    "ymax": 461.06436252593994
+                },
+                "confidence": 0.7675837278366089,
+                "time": {
+                    "preprocess": 3.0121803283691406,
+                    "inference": 59.9825382232666,
+                    "postprocess": 1.0025501251220703
+                }
+            },
+            {
+                "image": "bungkus_makanan-26-_jpg.rf.4257ca34920271a7fdef686a1fae51e1.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 91.14603996276855,
+                    "ymin": 177.77915596961975,
+                    "xmax": 453.0893325805664,
+                    "ymax": 556.3713669776917
+                },
+                "confidence": 0.8846839070320129,
+                "time": {
+                    "preprocess": 6.597042083740234,
+                    "inference": 63.616275787353516,
+                    "postprocess": 1.0001659393310547
+                }
+            },
+            {
+                "image": "bungkus_makanan-33-_jpg.rf.336d58f8939041679907dd4a6407a8f4.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 105.30868470668793,
+                    "ymin": 133.4199070930481,
+                    "xmax": 475.7817506790161,
+                    "ymax": 516.7509198188782
+                },
+                "confidence": 0.8832961320877075,
+                "time": {
+                    "preprocess": 4.055500030517578,
+                    "inference": 61.90061569213867,
+                    "postprocess": 0.0
+                }
+            },
+            {
+                "image": "bungkus_makanan-36-_jpg.rf.25bb5240ca7ffefa6018712313b1ecd7.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 186.24503016471863,
+                    "ymin": 177.3912012577057,
+                    "xmax": 416.2681818008423,
+                    "ymax": 451.2655735015869
+                },
+                "confidence": 0.9176093935966492,
+                "time": {
+                    "preprocess": 4.010200500488281,
+                    "inference": 57.21545219421387,
+                    "postprocess": 1.001596450805664
+                }
+            },
+            {
+                "image": "bungkus_makanan-39-_jpg.rf.cfc5013cc12ce2d5d8cc0facb1bb01b1.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 262.5853657722473,
+                    "ymin": 211.7895483970642,
+                    "xmax": 393.09332370758057,
+                    "ymax": 505.24216890335083
+                },
+                "confidence": 0.8188860416412354,
+                "time": {
+                    "preprocess": 5.510091781616211,
+                    "inference": 58.73823165893555,
+                    "postprocess": 1.0039806365966797
+                }
+            },
+            {
+                "image": "bungkus_makanan-42-_jpg.rf.0ce301764e0cbdcf69209695b76c8a79.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 185.43530702590942,
+                    "ymin": 142.40169525146484,
+                    "xmax": 406.9710373878479,
+                    "ymax": 441.1149859428406
+                },
+                "confidence": 0.9105039834976196,
+                "time": {
+                    "preprocess": 6.511688232421875,
+                    "inference": 62.258243560791016,
+                    "postprocess": 1.0008811950683594
+                }
+            },
+            {
+                "image": "bungkus_makanan-46-_jpg.rf.8afffde96424aed29b866c44d0456aea.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 257.67441987991333,
+                    "ymin": 162.71443963050842,
+                    "xmax": 429.2671322822571,
+                    "ymax": 456.8119525909424
+                },
+                "confidence": 0.8828186988830566,
+                "time": {
+                    "preprocess": 5.000591278076172,
+                    "inference": 62.856435775756836,
+                    "postprocess": 1.0023117065429688
+                }
+            },
+            {
+                "image": "bungkus_makanan-50-_jpg.rf.2fbd0f2dc9a7a0eeef8fdfbd5951a47b.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 214.4950568675995,
+                    "ymin": 191.43360257148743,
+                    "xmax": 489.8566246032715,
+                    "ymax": 533.3448529243469
+                },
+                "confidence": 0.8723272085189819,
+                "time": {
+                    "preprocess": 3.998994827270508,
+                    "inference": 57.72233009338379,
+                    "postprocess": 0.0
+                }
+            },
+            {
+                "image": "daun-17-_jpg.rf.7ad731daa59dd95af283c1e8d207cf19.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 71.79536819458008,
+                    "ymin": 170.62357664108276,
+                    "xmax": 494.2055940628052,
+                    "ymax": 462.3990297317505
+                },
+                "confidence": 0.8667452335357666,
+                "time": {
+                    "preprocess": 6.417989730834961,
+                    "inference": 58.483123779296875,
+                    "postprocess": 2.007007598876953
+                }
+            },
+            {
+                "image": "daun-37-_jpg.rf.03f0768569e1e30186dfd0559c65d5a2.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 170.20493745803833,
+                    "ymin": 85.62102913856506,
+                    "xmax": 474.576473236084,
+                    "ymax": 479.5094847679138
+                },
+                "confidence": 0.8929131031036377,
+                "time": {
+                    "preprocess": 4.48155403137207,
+                    "inference": 56.70619010925293,
+                    "postprocess": 2.0084381103515625
+                }
+            },
+            {
+                "image": "kaca-1-_jpg.rf.fd9cf8612016d0862bcd3f1e870d3523.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 205.23549914360046,
+                    "ymin": 214.4657850265503,
+                    "xmax": 591.8162941932678,
+                    "ymax": 394.22417879104614
+                },
+                "confidence": 0.7690356969833374,
+                "time": {
+                    "preprocess": 4.482746124267578,
+                    "inference": 63.84086608886719,
+                    "postprocess": 1.0030269622802734
+                }
+            },
+            {
+                "image": "kaca-18-_jpg.rf.601c9b13691b52d7cb78aaff18cd4c62.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 171.53050303459167,
+                    "ymin": 129.84522879123688,
+                    "xmax": 446.4872717857361,
+                    "ymax": 394.24517154693604
+                },
+                "confidence": 0.7193343639373779,
+                "time": {
+                    "preprocess": 6.555080413818359,
+                    "inference": 59.374094009399414,
+                    "postprocess": 2.0067691802978516
+                }
+            },
+            {
+                "image": "kaca-24-_jpg.rf.ec9725876ea7f7fd8dacccc481cd83c9.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 113.98835778236389,
+                    "ymin": 127.43298411369324,
+                    "xmax": 480.8605670928955,
+                    "ymax": 429.09919023513794
+                },
+                "confidence": 0.6949144005775452,
+                "time": {
+                    "preprocess": 5.536317825317383,
+                    "inference": 57.50536918640137,
+                    "postprocess": 1.5041828155517578
+                }
+            },
+            {
+                "image": "kaca-28-_jpg.rf.75174595f75b737e1ea32db15c91f83d.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 10.187329351902008,
+                    "ymin": 20.665166527032852,
+                    "xmax": 440.10833501815796,
+                    "ymax": 411.37622594833374
+                },
+                "confidence": 0.7030283212661743,
+                "time": {
+                    "preprocess": 6.004095077514648,
+                    "inference": 63.02905082702637,
+                    "postprocess": 1.5556812286376953
+                }
+            },
+            {
+                "image": "kaca-35-_jpg.rf.cac93f310664fec3f933769ec39524c6.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 197.61691689491272,
+                    "ymin": 173.58208894729614,
+                    "xmax": 439.9083137512207,
+                    "ymax": 548.8008499145508
+                },
+                "confidence": 0.7673115134239197,
+                "time": {
+                    "preprocess": 4.564046859741211,
+                    "inference": 53.483009338378906,
+                    "postprocess": 1.5039443969726562
+                }
+            },
+            {
+                "image": "kaca-46-_jpg.rf.6549c4a03f72aac1fb2390daf415ec57.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 201.44367814064026,
+                    "ymin": 131.8011313676834,
+                    "xmax": 365.31221866607666,
+                    "ymax": 495.2946424484253
+                },
+                "confidence": 0.5085374116897583,
+                "time": {
+                    "preprocess": 4.038095474243164,
+                    "inference": 61.53512001037598,
+                    "postprocess": 1.0004043579101562
+                }
+            },
+            {
+                "image": "kaca-9-_jpg.rf.fe8f53d7db8f75ac114e9b109051908b.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 151.45350694656372,
+                    "ymin": 88.46145272254944,
+                    "xmax": 417.84374713897705,
+                    "ymax": 510.5809450149536
+                },
+                "confidence": 0.7830359935760498,
+                "time": {
+                    "preprocess": 4.451990127563477,
+                    "inference": 55.8619499206543,
+                    "postprocess": 1.9996166229248047
+                }
+            },
+            {
+                "image": "kaleng-10-_jpg.rf.4ef37c3159375a100a5688c990296037.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 4.01501627638936,
+                    "ymin": 153.5998821258545,
+                    "xmax": 373.51555824279785,
+                    "ymax": 552.20046043396
+                },
+                "confidence": 0.8927361965179443,
+                "time": {
+                    "preprocess": 5.674839019775391,
+                    "inference": 56.8695068359375,
+                    "postprocess": 2.0079612731933594
+                }
+            },
+            {
+                "image": "kaleng-30-_jpg.rf.98e0a826f591a70955f4972dd9d93ed6.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 80.91637194156647,
+                    "ymin": 54.534199833869934,
+                    "xmax": 467.35174655914307,
+                    "ymax": 487.42525577545166
+                },
+                "confidence": 0.8850245475769043,
+                "time": {
+                    "preprocess": 3.0167102813720703,
+                    "inference": 54.50105667114258,
+                    "postprocess": 1.0020732879638672
+                }
+            },
+            {
+                "image": "kaleng-37-_jpg.rf.d4168b175b16abf5abc8d1ba4e793d80.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 153.7551462650299,
+                    "ymin": 105.36526143550873,
+                    "xmax": 475.1444935798645,
+                    "ymax": 406.7773103713989
+                },
+                "confidence": 0.8665661215782166,
+                "time": {
+                    "preprocess": 7.191658020019531,
+                    "inference": 58.56823921203613,
+                    "postprocess": 0.0
+                }
+            },
+            {
+                "image": "kaleng-6-_jpg.rf.8627f930b117d4bc2148a1306108d154.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 152.38099694252014,
+                    "ymin": 156.69633150100708,
+                    "xmax": 440.0919198989868,
+                    "ymax": 465.4309272766113
+                },
+                "confidence": 0.8296574354171753,
+                "time": {
+                    "preprocess": 9.078264236450195,
+                    "inference": 107.03778266906738,
+                    "postprocess": 1.0001659393310547
+                }
+            },
+            {
+                "image": "kaleng-9-_jpg.rf.ec5cba7ffdf05f1aabf1a0740bcf0a3f.jpg",
+                "class_name": "Anorganik",
+                "bounding_box": {
+                    "xmin": 50.449544191360474,
+                    "ymin": 52.83518135547638,
+                    "xmax": 496.5821385383606,
+                    "ymax": 453.4109115600586
+                },
+                "confidence": 0.8769429922103882,
+                "time": {
+                    "preprocess": 5.506992340087891,
+                    "inference": 60.81700325012207,
+                    "postprocess": 1.0018348693847656
+                }
+            },
+            {
+                "image": "kardus-13-_jpg.rf.7675e51373e0f3e562e3d5ab50a3c5ec.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 32.4097216129303,
+                    "ymin": 124.70929026603699,
+                    "xmax": 600.0,
+                    "ymax": 490.4551148414612
+                },
+                "confidence": 0.8913038969039917,
+                "time": {
+                    "preprocess": 5.508661270141602,
+                    "inference": 58.00271034240723,
+                    "postprocess": 1.1217594146728516
+                }
+            },
+            {
+                "image": "kardus-16-_jpg.rf.cdbd32f0fa9c4a5c95115fa31b32affd.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 27.042844891548157,
+                    "ymin": 145.1867401599884,
+                    "xmax": 579.4604659080505,
+                    "ymax": 496.7123508453369
+                },
+                "confidence": 0.8903294205665588,
+                "time": {
+                    "preprocess": 5.001068115234375,
+                    "inference": 59.21530723571777,
+                    "postprocess": 0.0
+                }
+            },
+            {
+                "image": "kardus-17-_jpg.rf.3012df302af4ef67ec62fb87ad207e0c.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 70.26454210281372,
+                    "ymin": 93.37876439094543,
+                    "xmax": 569.7632074356079,
+                    "ymax": 518.520712852478
+                },
+                "confidence": 0.8729850649833679,
+                "time": {
+                    "preprocess": 4.539728164672852,
+                    "inference": 58.88223648071289,
+                    "postprocess": 0.0
+                }
+            },
+            {
+                "image": "kardus-22-_jpg.rf.4a8b3315d28ad00f7e160575d7775c9b.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 39.29053992033005,
+                    "ymin": 127.43607759475708,
+                    "xmax": 575.5244851112366,
+                    "ymax": 437.9167914390564
+                },
+                "confidence": 0.8520897626876831,
+                "time": {
+                    "preprocess": 7.407426834106445,
+                    "inference": 60.17351150512695,
+                    "postprocess": 0.9987354278564453
+                }
+            },
+            {
+                "image": "kardus-27-_jpg.rf.20ab9cc3b32386a92e43791907d72de5.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 6.043967977166176,
+                    "ymin": 221.10688090324402,
+                    "xmax": 530.7462930679321,
+                    "ymax": 481.16040229797363
+                },
+                "confidence": 0.8096879124641418,
+                "time": {
+                    "preprocess": 6.529092788696289,
+                    "inference": 61.28740310668945,
+                    "postprocess": 0.9987354278564453
+                }
+            },
+            {
+                "image": "kardus-6-_jpg.rf.74e9138a70ce099d922925441b53a977.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 92.53188371658325,
+                    "ymin": 145.5707609653473,
+                    "xmax": 556.9634556770325,
+                    "ymax": 464.64775800704956
+                },
+                "confidence": 0.8753967881202698,
+                "time": {
+                    "preprocess": 6.122827529907227,
+                    "inference": 57.58833885192871,
+                    "postprocess": 2.060413360595703
+                }
+            },
+            {
+                "image": "kayu-35-_jpg.rf.1e9f95f031b1d62467757155c3bc5652.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 120.68090736865997,
+                    "ymin": 248.18692803382874,
+                    "xmax": 524.6166944503784,
+                    "ymax": 433.3558917045593
+                },
+                "confidence": 0.8586681485176086,
+                "time": {
+                    "preprocess": 5.004167556762695,
+                    "inference": 58.37821960449219,
+                    "postprocess": 1.0008811950683594
+                }
+            },
+            {
+                "image": "kayu-39-_jpg.rf.202fb4f52c43ae9e59798f0c5858e094.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 98.49554300308228,
+                    "ymin": 118.0705189704895,
+                    "xmax": 434.33618545532227,
+                    "ymax": 584.8998427391052
+                },
+                "confidence": 0.8968765139579773,
+                "time": {
+                    "preprocess": 4.518270492553711,
+                    "inference": 53.18880081176758,
+                    "postprocess": 0.99945068359375
+                }
+            },
+            {
+                "image": "kayu-5-_jpg.rf.075cd6542a3f0d43573a0e99fd78d2b9.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 226.59233808517456,
+                    "ymin": 90.74346721172333,
+                    "xmax": 423.61342906951904,
+                    "ymax": 548.9501595497131
+                },
+                "confidence": 0.8087754845619202,
+                "time": {
+                    "preprocess": 8.163690567016602,
+                    "inference": 57.712554931640625,
+                    "postprocess": 2.699613571166992
+                }
+            },
+            {
+                "image": "kayu-9-_jpg.rf.3d29b73a7542a0fefbd3ffeb85d5a038.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 116.27237498760223,
+                    "ymin": 187.8337025642395,
+                    "xmax": 536.539614200592,
+                    "ymax": 478.7898302078247
+                },
+                "confidence": 0.8833455443382263,
+                "time": {
+                    "preprocess": 5.007505416870117,
+                    "inference": 56.714534759521484,
+                    "postprocess": 1.0066032409667969
+                }
+            },
+            {
+                "image": "kertas-13-_jpg.rf.8d1e1725bfbc6ffc98eb8f7e844928a2.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 127.53641903400421,
+                    "ymin": 195.79224586486816,
+                    "xmax": 426.9049286842346,
+                    "ymax": 410.86238622665405
+                },
+                "confidence": 0.9018608331680298,
+                "time": {
+                    "preprocess": 6.020307540893555,
+                    "inference": 56.55527114868164,
+                    "postprocess": 1.5041828155517578
+                }
+            },
+            {
+                "image": "kertas-16-_jpg.rf.c8f821372ad5f68f4355391c9f3bed1e.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 147.81543016433716,
+                    "ymin": 137.26129531860352,
+                    "xmax": 461.6104245185852,
+                    "ymax": 444.35112476348877
+                },
+                "confidence": 0.8644849061965942,
+                "time": {
+                    "preprocess": 4.004955291748047,
+                    "inference": 62.35933303833008,
+                    "postprocess": 0.0
+                }
+            },
+            {
+                "image": "kertas-19-_jpg.rf.2d096f75c04020134c1214c1a9c76e10.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 256.866592168808,
+                    "ymin": 215.01376032829285,
+                    "xmax": 518.0263638496399,
+                    "ymax": 566.1696195602417
+                },
+                "confidence": 0.8819252252578735,
+                "time": {
+                    "preprocess": 6.530523300170898,
+                    "inference": 61.78998947143555,
+                    "postprocess": 0.9996891021728516
+                }
+            },
+            {
+                "image": "kertas-3-_jpg.rf.75066f2a2011cab016feeefcd17fac31.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 235.51259636878967,
+                    "ymin": 183.28272700309753,
+                    "xmax": 398.9503026008606,
+                    "ymax": 417.9934501647949
+                },
+                "confidence": 0.8653901219367981,
+                "time": {
+                    "preprocess": 5.131721496582031,
+                    "inference": 59.075355529785156,
+                    "postprocess": 1.0044574737548828
+                }
+            },
+            {
+                "image": "kertas-41-_jpg.rf.4704888e01bf8ff2766a3c00b23ed8dd.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 52.05264687538147,
+                    "ymin": 0.0,
+                    "xmax": 379.86241579055786,
+                    "ymax": 445.83388566970825
+                },
+                "confidence": 0.8587518930435181,
+                "time": {
+                    "preprocess": 4.0035247802734375,
+                    "inference": 61.17415428161621,
+                    "postprocess": 0.99945068359375
+                }
+            },
+            {
+                "image": "kertas-43-_jpg.rf.024c344703cb707bf95f5f18e5d1251e.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 20.965804159641266,
+                    "ymin": 217.56069660186768,
+                    "xmax": 342.6862120628357,
+                    "ymax": 553.1203150749207
+                },
+                "confidence": 0.876100480556488,
+                "time": {
+                    "preprocess": 5.95855712890625,
+                    "inference": 60.379981994628906,
+                    "postprocess": 2.0074844360351562
+                }
+            },
+            {
+                "image": "tissue-16-_jpg.rf.f3aa7f11c2d1beab251da651526a8dc8.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 191.18378162384033,
+                    "ymin": 196.14622592926025,
+                    "xmax": 478.53755950927734,
+                    "ymax": 410.1811408996582
+                },
+                "confidence": 0.881770670413971,
+                "time": {
+                    "preprocess": 5.506992340087891,
+                    "inference": 60.35661697387695,
+                    "postprocess": 0.9982585906982422
+                }
+            },
+            {
+                "image": "tissue-22-_jpg.rf.0d952f08460b04f2a0d24b91c31e4170.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 235.56867241859436,
+                    "ymin": 228.10919880867004,
+                    "xmax": 469.51485872268677,
+                    "ymax": 488.7088894844055
+                },
+                "confidence": 0.8771697878837585,
+                "time": {
+                    "preprocess": 5.526542663574219,
+                    "inference": 58.95423889160156,
+                    "postprocess": 0.9999275207519531
+                }
+            },
+            {
+                "image": "tissue-30-_jpg.rf.4a5afcad7bda18e24b9ba2af5719bf8e.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 103.12441885471344,
+                    "ymin": 145.48976719379425,
+                    "xmax": 449.3887424468994,
+                    "ymax": 424.0253448486328
+                },
+                "confidence": 0.8748376965522766,
+                "time": {
+                    "preprocess": 4.508733749389648,
+                    "inference": 59.53097343444824,
+                    "postprocess": 1.0075569152832031
+                }
+            },
+            {
+                "image": "tissue-31-_jpg.rf.4913e0597603c56537e272ea574002b2.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 109.16312634944916,
+                    "ymin": 178.41562628746033,
+                    "xmax": 513.017463684082,
+                    "ymax": 494.3559765815735
+                },
+                "confidence": 0.8776029348373413,
+                "time": {
+                    "preprocess": 5.065202713012695,
+                    "inference": 58.92300605773926,
+                    "postprocess": 0.9996891021728516
+                }
+            },
+            {
+                "image": "tissue-42-_jpg.rf.0d5ce59c48d9f9bb8539479d4b93e009.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 175.63474774360657,
+                    "ymin": 200.5094289779663,
+                    "xmax": 422.0711588859558,
+                    "ymax": 445.96896171569824
+                },
+                "confidence": 0.9032230973243713,
+                "time": {
+                    "preprocess": 5.508899688720703,
+                    "inference": 56.21147155761719,
+                    "postprocess": 0.9443759918212891
+                }
+            },
+            {
+                "image": "tissue-45-_jpg.rf.20c7fb802313ccd27014b81d019b0a0a.jpg",
+                "class_name": "Organik",
+                "bounding_box": {
+                    "xmin": 214.07532691955566,
+                    "ymin": 194.1353738307953,
+                    "xmax": 454.82393503189087,
+                    "ymax": 455.65123558044434
+                },
+                "confidence": 0.8895469903945923,
+                "time": {
+                    "preprocess": 4.002571105957031,
+                    "inference": 58.22157859802246,
+                    "postprocess": 0.9999275207519531
+                }
+            }
+        ]
+    }
+}
